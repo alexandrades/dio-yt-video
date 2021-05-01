@@ -2,7 +2,7 @@
 Extensão para o chrome que abre vídeo da aula em outra aba pelo YouTube.
 
 ## Como instalar
-Para instalar a extesão é preciso navegar até "gerenciar extensões", habilitar o modo do desenvolvedor, carregar sem compactação, navegar até a pasta raiz da extensão e confirmar.
+Para instalar a extesão é preciso navegar até "gerenciar extensões", habilitar o modo do desenvolvedor, clicar em "carregar sem compactação", navegar até a pasta raiz da extensão e confirmar.
 A extensão já está pronta para uso
 
 ## Como usar 
